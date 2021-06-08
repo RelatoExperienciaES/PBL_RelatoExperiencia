@@ -19,6 +19,6 @@
 
 #AVALIAÇÃO
 
-[Dados](https://github.com/RelatoExperienciaES/PBL_RelatoExperiencia/blob/e561705c533bba1b2cbb6cfd91cdf00482892fdb/Projeto%20interdisciplinar_%20ES1%20e%20IHC%20(respostas.ods)
+[Resultados](https://github.com/RelatoExperienciaES/PBL_RelatoExperiencia/blob/e561705c533bba1b2cbb6cfd91cdf00482892fdb/Projeto%20interdisciplinar_%20ES1%20e%20IHC%20(respostas.ods)
 
 

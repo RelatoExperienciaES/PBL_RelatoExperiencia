@@ -2,7 +2,9 @@
 Aprendizagem baseada em projetos e interdisciplinaridade no ensino de Engenharia de Software: Um relato de experiência
 
 
-Template: [Especificação dos Requisitos de Software - Software Requirements Specifications - SRS](https://github.com/RelatoExperienciaES/PBL_RelatoExperiencia/blob/017ea754a8ae4e17f434fcef3220a2a30d47cfe3/SRS%20-%20Template.docx)
+Template: Especificação dos Requisitos de Software - Software Requirements Specifications - SRS
+1. [PDF](https://github.com/RelatoExperienciaES/PBL_RelatoExperiencia/blob/3fdc6083f0f9b31a072d5485ec05aa019d039c1e/SRS-Template.pdf)
+2. [docx](https://github.com/RelatoExperienciaES/PBL_RelatoExperiencia/blob/017ea754a8ae4e17f434fcef3220a2a30d47cfe3/SRS%20-%20Template.docx)
 
 
 PROTÓTIPOS DOS PROJETOS DE 2020-1

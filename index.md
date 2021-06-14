@@ -22,6 +22,6 @@
 
 ### AVALIAÇÃO
 
-1. [Resultados](Projeto interdisciplinar_ ES1 e IHC (respostas).ods)
+1. [Resultados](https://github.com/RelatoExperienciaES/PBL_RelatoExperiencia/blob/5640dbd977b4ead890e25f5364837c7b191ec538/Projeto%20interdisciplinar_%20ES1%20e%20IHC%20(respostas).ods)
 
 
